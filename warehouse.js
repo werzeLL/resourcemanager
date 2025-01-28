@@ -2020,24 +2020,3 @@ function resAfterBalance() {
 }
 
 }
-/*
-     FILE ARCHIVED ON 06:49:32 Jul 20, 2024 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 21:57:44 Jan 28, 2025.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 0.59
-  exclusion.robots: 0.019
-  exclusion.robots.policy: 0.009
-  esindex: 0.012
-  cdx.remote: 56.162
-  LoadShardBlock: 678.363 (3)
-  PetaboxLoader3.datanode: 519.533 (5)
-  PetaboxLoader3.resolve: 236.466 (3)
-  load_resource: 133.361
-  loaddict: 23.01
-*/
